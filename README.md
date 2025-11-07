@@ -1,1 +1,1 @@
-# Coffee-Shop-Project
+# Coffee Shop SQL Project
